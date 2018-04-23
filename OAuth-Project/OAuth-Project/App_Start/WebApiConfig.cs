@@ -16,6 +16,7 @@ namespace OAuth_Project
             // Web API routes
             config.MapHttpAttributeRoutes();
 
+            //To provide the default API routes
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
                 routeTemplate: "api/{controller}/{id}",
