@@ -11,6 +11,7 @@ namespace MyFirstUnitTest
         [TestMethod]
         public void GetUnitTestPurpose_CheckResponse_ReturnOK()
         {
+            //To test the RoleController
             RoleController roleController = new RoleController();
 
             int response = roleController.GetUnitTestPurpose();
