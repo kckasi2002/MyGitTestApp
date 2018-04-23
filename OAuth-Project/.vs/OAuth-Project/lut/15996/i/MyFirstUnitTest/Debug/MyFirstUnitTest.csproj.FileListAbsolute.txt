@@ -1,0 +1,11 @@
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\b\MyFirstUnitTest\bin\Debug\ApplicationInsights.config
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\b\MyFirstUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\b\MyFirstUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\b\MyFirstUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\b\MyFirstUnitTest\bin\Debug\MyFirstUnitTest.dll
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\b\MyFirstUnitTest\bin\Debug\MyFirstUnitTest.pdb
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\i\MyFirstUnitTest\Debug\MyFirstUnitTest.csproj.CoreCompileInputs.cache
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\i\MyFirstUnitTest\Debug\MyFirstUnitTest.csproj.CopyComplete
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\i\MyFirstUnitTest\Debug\MyFirstUnitTest.dll
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\i\MyFirstUnitTest\Debug\MyFirstUnitTest.pdb
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\i\MyFirstUnitTest\Debug\MyFirstUnitTest.csprojResolveAssemblyReference.cache

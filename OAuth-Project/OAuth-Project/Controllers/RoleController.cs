@@ -25,5 +25,13 @@ namespace OAuth_Project.Controllers
 
             return this.Request.CreateResponse(HttpStatusCode.OK, roles);
         }
+
+        [Route("api/GetAllRoles")]
+        [HttpGet]
+        [AllowAnonymous]
+        public int GetUnitTestPurpose()
+        {
+            return 1;
+        }
     }
 }

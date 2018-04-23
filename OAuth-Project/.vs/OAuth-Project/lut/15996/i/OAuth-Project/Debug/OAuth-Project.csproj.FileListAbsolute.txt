@@ -1,0 +1,13 @@
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\b\OAuth-Project\bin\ApplicationInsights.config
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\b\OAuth-Project\bin\OAuth-Project.dll.config
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\b\OAuth-Project\bin\OAuth-Project.dll
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\b\OAuth-Project\bin\OAuth-Project.pdb
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\i\OAuth-Project\Debug\OAuth_Project.Migrations.InitialDB.resources
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\i\OAuth-Project\Debug\OAuth_Project.Migrations.RenameTableName.resources
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\i\OAuth-Project\Debug\OAuth_Project.Migrations.ChangeTableName.resources
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\i\OAuth-Project\Debug\OAuth_Project.Migrations.AddColumnsInUser.resources
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\i\OAuth-Project\Debug\OAuth-Project.csproj.GenerateResource.cache
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\i\OAuth-Project\Debug\OAuth-Project.csproj.CoreCompileInputs.cache
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\i\OAuth-Project\Debug\OAuth-Project.csproj.CopyComplete
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\i\OAuth-Project\Debug\OAuth-Project.dll
+D:\Project\ServerSide\WebAPI\GIT-ServerSide\MyGitTestApp\OAuth-Project\.vs\OAuth-Project\lut\0\i\OAuth-Project\Debug\OAuth-Project.pdb
